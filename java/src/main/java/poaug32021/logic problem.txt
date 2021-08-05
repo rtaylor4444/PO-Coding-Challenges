@@ -1,0 +1,9 @@
+Each character exists as a pair.  Multiply the number in the pair by the location of the letter
+in the alphabet (A-1, B-2, etc).  The resulting number from the multiplication
+indicates what the new letter is.  For example (B3 -> 3 * 3 -> 9 -> I)
+
+A B C D E F G H I J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+
+PROCESSOR -> D4F3C5C1E1S1S1E3C6
+QUADRANT -> Q1G3A1B2I2A1G2E4
